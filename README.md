@@ -1,4 +1,4 @@
-# Stokes equations Analysis with Input Convex Neural Networks (ICNN)
+# Stokes equations for non-Newtonian fluids with Input Convex Neural Networks (ICNN)
 
 ## Overview
 
