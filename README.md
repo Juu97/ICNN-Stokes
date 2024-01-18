@@ -4,6 +4,8 @@
 
 This repository is dedicated to the study and analysis of fluid dynamics using Input Convex Neural Networks (ICNN) in comparison with traditional viscosity models. It features implementations for ICNN, scripts for model training and evaluation, convergence analysis, and real data examples.
 
+Link for the scientific paper [currently under review]: [https://arxiv.org/abs/2401.07121](https://arxiv.org/abs/2401.07121)
+
 ## Repository Contents
 
 ### Scripts
