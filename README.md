@@ -67,7 +67,7 @@ Ensure you have the required packages installed before running the scripts. You 
 pip install -r requirements.txt
 ```
 
-*Important*: Firedrake requires a special installation process. To install Firedrake:
+**Important**: Firedrake requires a special installation process (*not handled with requirements.txt procedure*). To install Firedrake:
 
 - Firedrake requires a Unix-like operating system (e.g., Linux or macOS).
 - Ensure you have Python 3.7 or newer.
