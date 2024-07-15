@@ -88,7 +88,5 @@ source firedrake/bin/activate
 
 Once Firedrake is installed and the environment is activated, you can run your scripts as usual.
 
-For more detailed information and troubleshooting, refer to the [Firedrake documentation]([https://arxiv.org/abs/2401.07121](https://www.firedrakeproject.org/documentation.html)).
-.
-
+For more detailed information and troubleshooting, refer to the [Firedrake documentation](https://www.firedrakeproject.org/documentation.html).
 
