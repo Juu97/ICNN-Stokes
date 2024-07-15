@@ -61,4 +61,34 @@ Each folder in this repository corresponds to a specific figure or table in the 
 
 ## Requirements
 
-Ensure you have the required packages installed before running the scripts.
+Ensure you have the required packages installed before running the scripts. You can install the dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+*Important*: Firedrake requires a special installation process. To install Firedrake:
+
+- Firedrake requires a Unix-like operating system (e.g., Linux or macOS).
+- Ensure you have Python 3.7 or newer.
+  
+Open a terminal and run the following command to install Firedrake:
+
+```bash
+curl -O https://raw.githubusercontent.com/firedrakeproject/firedrake/master/scripts/install_firedrake.sh
+bash install_firedrake.sh
+```
+
+This script will install Firedrake and its dependencies.
+After installation, activate the Firedrake environment:
+
+```bash
+source firedrake/bin/activate
+```
+
+Once Firedrake is installed and the environment is activated, you can run your scripts as usual.
+
+For more detailed information and troubleshooting, refer to the [Firedrake documentation]([https://arxiv.org/abs/2401.07121](https://www.firedrakeproject.org/documentation.html)).
+.
+
+
