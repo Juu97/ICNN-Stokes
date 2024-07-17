@@ -2,7 +2,7 @@ import pickle
 import matplotlib.pyplot as plt
 import numpy as np
 
-nn1 = [1.2, 1.6, 2.0, 2.4, 2.8]
+nn1 = [1.2, 1.6, 2.0]
 nn2 = [2.4, 2.8]
 mu_inf = 0.001
 mu_0 = 1
